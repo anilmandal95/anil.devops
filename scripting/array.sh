@@ -8,14 +8,8 @@ echo "${myarray[0]}"
 
 echo "${myarray[2]}"
 
-
-
 #how to get length of an array
   echo "${#myarray[*]}"
-
-
-
-
 
 #How to use slicing in shell scripting
 
@@ -25,8 +19,6 @@ echo "${myarray[*]:6}"
 
 
 echo "${myarray[*]:2:2}"
-
-
 
 #updation in an array
 
