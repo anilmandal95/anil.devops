@@ -34,5 +34,3 @@ myarray+=("good" 589 'TO' 8.9)
 
 echo "${myarray[*]}"
 
-
-
