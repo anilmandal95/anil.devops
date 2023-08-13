@@ -33,3 +33,4 @@ echo "${myarray[*]:2:2}"
 myarray+=("good" 589 'TO' 8.9)
 
 echo "${myarray[*]}"
+
