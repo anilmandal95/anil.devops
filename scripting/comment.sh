@@ -1,3 +1,13 @@
 #!/bin/bash
 
-# This is new comment 
+#single line comment example
+
+#echo "Hello Anil! How are you?"
+
+echo "good"
+
+<<com
+echo"This doesn't echo"
+
+echo"Even this doesn't"
+com
